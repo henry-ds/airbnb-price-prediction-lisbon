@@ -34,4 +34,4 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, GitHub, Jupyter Notebo
 
 ## Author
 Emeka Henry Anumba
-
+Aspiring MSc Data Science student
