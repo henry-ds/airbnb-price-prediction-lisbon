@@ -24,10 +24,10 @@ evaluation.
 - Random Forest Regressor
 
 ## Key Findings
-Airbnb prices in Lisbon are right-skewed, with most listings below €200 per night
-Entire homes/apartments command significantly higher prices than private rooms
-Location and room type are the strongest predictors of nightly price
-The Random Forest model outperforms Linear Regression, indicating non-linear relationships in the data
+- Airbnb prices in Lisbon are right-skewed, with most listings below €200 per night
+- Entire homes/apartments command significantly higher prices than private rooms
+- Location and room type are the strongest predictors of nightly price
+- The Random Forest model outperforms Linear Regression, indicating non-linear relationships in the data
 
 ## Tools & Technologies
 Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, GitHub, Jupyter Notebook
