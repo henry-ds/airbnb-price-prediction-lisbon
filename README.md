@@ -33,6 +33,6 @@ evaluation.
 Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, GitHub, Jupyter Notebook
 
 ## Author
-Emeka Henry Anumba
+Anumba Emeka Henry 
 
-Aspiring MSc Data Science student
+Aspiring Data Scientist | Data-Driven Marketing Enthusiast
