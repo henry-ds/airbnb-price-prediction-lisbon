@@ -35,4 +35,4 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, GitHub, Jupyter Notebo
 ## Author
 Anumba Emeka Henry 
 
-Data-Driven Marketing Enthusiast
+Data Analyst | Data Science & Customer Analytics
